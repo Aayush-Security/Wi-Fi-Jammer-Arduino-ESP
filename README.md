@@ -1,8 +1,8 @@
 # ESP8266 Deauther
 Running Wi-Fi Jammer on ANKER powerbank.
 
-<img width="65%" alt="esp8266 deauther with smartphone" src="https://lh5.googleusercontent.com/xxoIlMGqPhzHhrlXYHKKIOazVDtaC9OwTBd97oXx36RQqnKpCx2X6v9yOtxcYfeo-aILIjShe-DpVl8NA7oj=w1366-h670">
-<img width="65%" alt="Interface" src="https://lh5.googleusercontent.com/l_dI4qge1RA57MHg2sx2wHhX3nPk8NV_T7sSMleUniWuF8OcB_onM2-EgTRcFrT7vBIT2-Qe21rq_RBb_NPU=w1366-h670">
+<img width="65%" alt="esp8266 deauther with smartphone" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/CA15AFA7-4F0A-40C4-B634-FDAA2ABFA219.jpeg">
+<img width="65%" alt="Interface" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/C4EAED41-2345-4F33-8B4F-6C723EC8F069.png">
 
 <p align="center">
   <a href="https://instagram.com/aayush_iisr">Follow me on Instagram</a>
@@ -54,7 +54,7 @@ Again on linux if IDE shows error type this on terminal `sudo chmod -R 777 /dev/
 
 **8** Open the folder path under `More preferences can be edited directly in the file`
 
-![screenshot of arduino, opening folder path](https://lh3.googleusercontent.com/4PsUUQu8fhNQppZAcFTJV9Evu8wOSfiLf10Coo14cDxc4o609HFVyM08MlG69wPzsYOyfE15vVrPxTKWKwZb=w1366-h670)
+![screenshot of arduino, opening folder path](https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/FB593583-BD0D-45E8-89E4-692031D85996.jpeg)
 
 **9** Go to `packages` > `esp8266` > `hardware` > `esp8266` > `2.0.0` > `tools` > `sdk` > `include`
 
@@ -69,7 +69,7 @@ void wifi_unregister_send_pkt_freedom_cb(void);
 int wifi_send_pkt_freedom(uint8 *buf, int len, bool sys_seq);
 ```  
 
-![screenshot of notepad, copy paste the right code](https://lh3.googleusercontent.com/4PsUUQu8fhNQppZAcFTJV9Evu8wOSfiLf10Coo14cDxc4o609HFVyM08MlG69wPzsYOyfE15vVrPxTKWKwZb=w1366-h670)
+![screenshot of notepad, copy paste the right code](https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/FE935EF5-FCD4-4FB5-B5B0-CA83BF95BAAB.jpeg)
 
 **don't forget to save!**  
 
