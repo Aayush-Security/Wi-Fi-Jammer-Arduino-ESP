@@ -1,0 +1,1 @@
+Here in this "Cooked binary file" folder we have binary file name "Wi-Fi-Jammer-Arduino-ESP-master.ino.bin".This is complied file, when you use Arduino IDE first it compiles it to binary .bin then uploads that binary to yur ESP 8266,so to make your task easy by uploding this cooked (.bin) file.
