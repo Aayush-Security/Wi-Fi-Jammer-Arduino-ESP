@@ -48,7 +48,7 @@ Again on linux if IDE shows error type this on terminal `sudo chmod -R 777 /dev/
 
 **6** Select version `2.0.0` and click on `Install` (**must be version 2.0.0!**)
 
-![screenshot of arduino, selecting the right version](https://lh5.googleusercontent.com/lQiNQ4pdW3UkBAoCoBXjzmqHlIoLBcgqlZj7JuN9Ht1GFYN4BDw3Zsf1L1V2a05syWmNxS2754LnAGoT8tDq=w1366-h670)
+![screenshot of arduino, selecting the right version](https://github.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/blob/master/images/2B4227DA-4E01-4B54-B70E-38B3F224D9D0.jpeg?raw=truep)
 
 **7** Go to `File` > `Preferences`
 
