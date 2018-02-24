@@ -21,7 +21,7 @@ f it's not working, you can try using the Arduino as descriped below.
 
 ### Method-2 Uploading Bin file using Nodemce-flash (Windows only)--very easy
 Refer this link https://github.com/nodemcu/nodemcu-flasher
-### Method-3 Compiling the source with Arduino(Windows and Linux)
+### Method-3 Compiling and uploading sketch .ino with Arduino IDE (Windows and Linux)
 Again on linux if IDE shows error type this on terminal `sudo chmod -R 777 /dev/ttyUSB0
 `. 
 
