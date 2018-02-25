@@ -2,11 +2,10 @@
 Running Wi-Fi Jammer on ANKER powerbank.
 
 <img width="65%" alt="esp8266 deauther with smartphone" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/CA15AFA7-4F0A-40C4-B634-FDAA2ABFA219.jpeg">
-<img width="65%" alt="Interface" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/C4EAED41-2345-4F33-8B4F-6C723EC8F069.png">
+<img width="65%" alt="Interface" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/Screenshot%20from%202018-02-25%2017-17-41.png">
 
 <p align="center">
   <a href="https://instagram.com/aayush_iisr">Follow me on Instagram</a>
-|📺 <a href="https://www.youtube.com/channel/UCFmjA6dnjv-phqrFACyI8tw">YouTube</a>
 </p>
 
 
