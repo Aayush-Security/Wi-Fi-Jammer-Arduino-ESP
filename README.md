@@ -1,11 +1,15 @@
-# ESP8266 Deauther
-Running Wi-Fi Jammer on ANKER powerbank.
+# Wi-Fi 2.4Ghz Jammer
+<p align="center">Running Wi-Fi Jammer on ANKER powerbank.</p>
 
-<img width="65%" alt="esp8266 deauther with smartphone" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/CA15AFA7-4F0A-40C4-B634-FDAA2ABFA219.jpeg">
-<img width="65%" alt="Interface" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/Screenshot%20from%202018-02-25%2017-17-41.png">
+<p align="center"><img width="65%" alt="esp8266 deauther with smartphone" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/CA15AFA7-4F0A-40C4-B634-FDAA2ABFA219.jpeg"></p>
+<p align="center">ESP8266 SSID:"pwned" web interface on 192.168.4.1.</p>
+<p align="center"><img width="65%" alt="Interface" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/Screenshot%20from%202018-02-25%2017-17-41.png"></p>
 
 <p align="center">
 <a href="https://instagram.com/aayush_iisr"> <img width="9%" height="9%" src="http://pngimg.com/uploads/instagram/instagram_PNG12.png"></a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/aayush-trivedi-b14162136/"> <img width="9%" height="9%" src="https://vignette.wikia.nocookie.net/the-most-popular-girls-in-school/images/1/1a/Linkedin.png/revision/latest?cb=20150730204727"></a>
 </p>
 
 
