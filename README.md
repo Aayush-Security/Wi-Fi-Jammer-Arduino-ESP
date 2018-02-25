@@ -23,9 +23,15 @@ With some Python installations this may not work and you'll receive an error, tr
 
 After installing, you will have `esptool.py` installed into the default Python executables directory and you should be able to run it with the command `esptool.py`.
 
-In Linux, the current user may not have access to serial ports and a "Permission Denied" error will appear. On most Linux distributions, the solution is to add the user to the `dialout` group with a command like `sudo chmod -R 777 /dev/ttyUSB0
-`. 
-f it's not working, you can try using the Arduino as descriped below.
+In Linux, the current user may not have access to serial ports and a "Permission Denied" error will appear. On most Linux distributions, the solution is to add the user to the `dialout` group with a command like`sudo chmod -R 777 /dev/ttyUSB0`.
+
+### NOW IT's TIME TO UPLOAD BIN FILE TO YOUR ESP8266 CHIP.
+**1** First erase flash on ESP8266 for error free .bin uploading.
+`esptool.py erase_flash`
+**2** Upload bin file.
+`esptool.py write_flash 0x0000 (directry of bin file or just simply drag n drop on terminal)`
+DONE!!!
+Enjoy
 
 ### Method-2 Uploading Bin file using Nodemce-flash (Windows only)--very easy
 Refer this link https://github.com/nodemcu/nodemcu-flasher
