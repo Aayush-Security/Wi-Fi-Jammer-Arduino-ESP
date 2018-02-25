@@ -5,7 +5,7 @@ Running Wi-Fi Jammer on ANKER powerbank.
 <img width="65%" alt="Interface" src="https://raw.githubusercontent.com/Aayush-Security/Wi-Fi-Jammer-Arduino-ESP/master/images/Screenshot%20from%202018-02-25%2017-17-41.png">
 
 <p align="center">
-  <a href="https://instagram.com/aayush_iisr">Follow me on Instagram</a>
+ <img width="3%" src="http://bbr.org.au/wp-content/uploads/2018/01/instagram-png-instagram-png-logo-1455.png"> <a href="https://instagram.com/aayush_iisr">Follow me on Instagram</a>
 </p>
 
 
