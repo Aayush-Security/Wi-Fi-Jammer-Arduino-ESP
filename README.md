@@ -100,5 +100,5 @@ If no port shows up you may have to reinstall the drivers.
 **17** Depending on your board you may have to adjust the `Tools` > `Board` > `Flash Frequency` and the `Tools` > `Board` > `Flash Size`. I use a `160MHz` flash frequency and a `4M (3M SPIFFS)` flash size.
 
 **18** Upload!
-
+### After sucessful upload your ESP8266 broadcast SSID named "pwned" password is "deauther".It can be operated on 192.168.4.1
  
