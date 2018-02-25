@@ -27,9 +27,13 @@ In Linux, the current user may not have access to serial ports and a "Permission
 
 ### NOW IT's TIME TO UPLOAD BIN FILE TO YOUR ESP8266 CHIP.
 **1** First erase flash on ESP8266 for error free .bin uploading.
+
 `esptool.py erase_flash`
+
 **2** Upload bin file.
+
 `esptool.py write_flash 0x0000 (directry of bin file or just simply drag n drop on terminal)`
+
 DONE!!!
 Enjoy
 
